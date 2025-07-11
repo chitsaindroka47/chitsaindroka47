@@ -69,6 +69,10 @@
  <a href="https://www.hackerrank.com/chitranjan2347" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="HackerRank" width="30" />
 </a>
+ &nbsp;
+  <a href="mailto:chitranjan.22jics211@jietjodhpur.ac.in" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" />
+  </a>
 </p>
 
 ---
