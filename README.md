@@ -15,11 +15,8 @@
 - ReactJS | Spring Boot | UI/UX Designing
 
 ### 🌐 Portfolio Website
-<p align="center">
-  <a href="https://chitranjansinghportfolio.my.canva.site/" target="_blank">
-    <img src="https://github.com/chitsaindroka47/chitsaindroka47/assets/your-image.png" alt="My Portfolio" width="300" />
-  </a>
-</p>
+[![🌐 View My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=internet-explorer)](https://chitranjansinghportfolio.my.canva.site/)
+
 
 
 
