@@ -67,7 +67,7 @@
   </a>
   &nbsp;
  <a href="https://www.hackerrank.com/chitranjan2347" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="30" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="30"/>
  </a>
 </p>
 
