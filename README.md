@@ -15,11 +15,10 @@
 - ReactJS | Spring Boot | UI/UX Designing
 
 ### 🌐 Portfolio Website
-- 📌 [My Portfolio](https://chitranjansinghportfolio.my.canva.site/)
+[![🌐 View My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=internet-explorer)](https://chitranjansinghportfolio.my.canva.site/)
 
-### 📫 Reach Me
-- ✉️ chitranjan.22jics211@jietjodhpur.ac.in  
-- 📄 [View My Resume](https://drive.google.com/file/d/1o0ByA_tMP5wGngubpmWC9hToPuV2QvEX/view?usp=sharing)
+
+
 
 ---
 
@@ -51,10 +50,10 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chitsaindroka47/chitsaindroka47/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/chitsaindroka47/chitsaindroka47/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -66,8 +65,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/chitranjan2347" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="30" />
+ <a href="https://www.hackerrank.com/chitranjan2347" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="HackerRank" width="30" />
+</a>
+ &nbsp;
+  <a href="mailto:chitranjan.22jics211@jietjodhpur.ac.in" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" />
+  </a>
+&nbsp;
+  <a href="https://drive.google.com/file/d/1o0ByA_tMP5wGngubpmWC9hToPuV2QvEX/view?usp=sharing" target="_blank" download>
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Resume" width="30" />
   </a>
 </p>
 
