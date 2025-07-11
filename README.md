@@ -51,10 +51,10 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chitsaindroka47/chitsaindroka47/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/chitsaindroka47/chitsaindroka47/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
