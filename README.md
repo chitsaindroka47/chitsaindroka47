@@ -22,9 +22,6 @@
 </p>
 
 
-### 📫 Reach Me
-- ✉️ chitranjan.22jics211@jietjodhpur.ac.in  
-- 📄 [View My Resume](https://drive.google.com/file/d/1o0ByA_tMP5wGngubpmWC9hToPuV2QvEX/view?usp=sharing)
 
 ---
 
@@ -77,6 +74,10 @@
  &nbsp;
   <a href="mailto:chitranjan.22jics211@jietjodhpur.ac.in" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" />
+  </a>
+&nbsp;
+  <a href="https://drive.google.com/file/d/1o0ByA_tMP5wGngubpmWC9hToPuV2QvEX/view?usp=sharing" target="_blank" download>
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Resume" width="30" />
   </a>
 </p>
 
